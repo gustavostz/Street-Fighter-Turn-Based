@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projects/street-fighter/static/css/main.fa2809ac.chunk.css",
+    "main.js": "/projects/street-fighter/static/js/main.e61264e2.chunk.js",
+    "main.js.map": "/projects/street-fighter/static/js/main.e61264e2.chunk.js.map",
+    "runtime-main.js": "/projects/street-fighter/static/js/runtime-main.2e0a6d49.js",
+    "runtime-main.js.map": "/projects/street-fighter/static/js/runtime-main.2e0a6d49.js.map",
+    "static/js/2.67bfa89c.chunk.js": "/projects/street-fighter/static/js/2.67bfa89c.chunk.js",
+    "static/js/2.67bfa89c.chunk.js.map": "/projects/street-fighter/static/js/2.67bfa89c.chunk.js.map",
+    "index.html": "/projects/street-fighter/index.html",
+    "precache-manifest.c004e6dac3657454b0a9f1bca52548a8.js": "/projects/street-fighter/precache-manifest.c004e6dac3657454b0a9f1bca52548a8.js",
+    "service-worker.js": "/projects/street-fighter/service-worker.js",
+    "static/css/main.fa2809ac.chunk.css.map": "/projects/street-fighter/static/css/main.fa2809ac.chunk.css.map",
+    "static/media/style.css": "/projects/street-fighter/static/media/BG4.5b4df421.png",
+    "static/media/VS.png": "/projects/street-fighter/static/media/VS.86b41660.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0a6d49.js",
+    "static/js/2.67bfa89c.chunk.js",
+    "static/css/main.fa2809ac.chunk.css",
+    "static/js/main.e61264e2.chunk.js"
+  ]
+}
