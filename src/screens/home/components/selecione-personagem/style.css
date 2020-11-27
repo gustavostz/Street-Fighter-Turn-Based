@@ -1,0 +1,45 @@
+.personagens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+}
+
+.selecionador-jogador h1 {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 70px;
+    line-height: 102px;
+    letter-spacing: 0.1em;
+    color: white;
+    text-shadow: 10px 10px 0px #000000;
+    margin: 0
+}
+
+.selecionador-jogador {
+    width: 49.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.selecionador-jogador input {
+    opacity: 0;
+}
+
+.imagem-preview {
+    width: 353px;
+    height: 380px;
+    margin-bottom: -9%;
+}
+
+.preview-e-nome {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: -10%;
+}

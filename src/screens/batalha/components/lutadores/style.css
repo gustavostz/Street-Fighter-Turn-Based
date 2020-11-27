@@ -1,0 +1,58 @@
+.lutadores {
+    width: 40%;
+    display: flex;
+}
+
+.personagem-imagem-luta {
+    width: 256px;
+    height: 285px;
+    align-self: center;
+}
+
+.poderes {
+    width: 50%;
+    flex-direction: column;
+    margin-bottom: 20%;
+}
+
+.poderes h2 {
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.5);
+}
+
+
+@keyframes hadouken-para-direita {
+    0% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+    95% {
+        transform: translateX(220%)
+    }
+    100% {
+        opacity: 0
+    }
+}
+
+@keyframes hadouken-para-esquerda {
+    0% {
+        transform: translateX(0) scaleX(-1);
+        opacity: 1;
+    }
+    90% {
+        transform: translateX(-210%) scaleX(-1)
+    }
+    100% {
+        opacity: 0
+    }
+}

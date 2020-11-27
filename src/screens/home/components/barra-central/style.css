@@ -1,0 +1,32 @@
+.barra-central {
+    width: 1%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.barra-central button {
+    position: absolute;
+    top: 23%;
+    left: 46%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    width: 128px;
+    height: 70px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #333333;
+    outline: none;
+
+}
+
+.barra-central img {
+    position: absolute;
+    top: 76%;
+    left: 45%;
+}

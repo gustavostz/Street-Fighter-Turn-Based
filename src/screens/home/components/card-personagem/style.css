@@ -1,0 +1,44 @@
+.quadradinho {
+    width: 90px;
+    height: 100px;
+    margin: 3px;
+    padding: 0;
+}
+
+.quadradinho img {
+    position: relative;
+    min-width: 100%;
+    max-height: 100%;
+    margin: 0;
+    filter: grayscale(1);
+}
+
+.quadradinho img:hover {
+    filter: grayscale(0);
+}
+
+input:checked + label img {
+    border: 2px solid yellow;
+    filter: grayscale(0);
+}
+
+.quadradinho p {
+    display: none;
+    background: rgba(255, 0, 0, 0.57);
+    z-index: 1;
+    position: relative;
+    top: -30px;
+    left: 2px;
+    text-align: center;
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 14px;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+input:checked + label p {
+    display: block;
+}

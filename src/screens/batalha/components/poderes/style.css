@@ -1,0 +1,27 @@
+.poder {
+    width: 70%;
+    color: white;
+    background: linear-gradient(90deg, rgba(21, 130, 165, 0.8) 73.89%, rgba(20, 103, 129, 0) 100%);
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    border: 0;
+}
+
+.poder h3 {
+    font-size: 20px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.poder p {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}

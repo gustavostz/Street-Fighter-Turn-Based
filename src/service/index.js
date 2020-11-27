@@ -1,0 +1,1 @@
+export { PersonagemService } from "./personagem/personagem.service"

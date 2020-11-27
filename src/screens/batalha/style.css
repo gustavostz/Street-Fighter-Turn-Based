@@ -1,0 +1,153 @@
+.campo-de-batalha {
+    background-image: url("./img/BG4.png");
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 102% 102%;
+    background-position-x: -10px;
+    background-position-y: -2px;
+    overflow-y: hidden;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.versus-batalha {
+    width: 84px;
+    height: 104px;
+
+    font-family: 'Permanent Marker', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 63px;
+
+    color: #FFFFFF;
+}
+
+.body-batalha {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-final {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.48);
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nome-vencedor {
+    margin: 0 0 2% 0;
+    font-family: 'Permanent Marker', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 180px;
+    line-height: 291px;
+    display: flex;
+    align-items: center;
+    animation-name: nome-animacao;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    color: #FFFFFF;
+}
+
+.botoes-finais button {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    background-color: #F6DD00;
+    width: 268px;
+    height: 70px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #333333;
+    outline: none;
+}
+
+.botoes-finais {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.errou-faustao {
+    position: absolute;
+    animation-name: errou-animacao;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    bottom: 35%;
+    left: 40%;
+    opacity: 0;
+}
+
+.comemoracaoSilvio {
+    position: absolute;
+    right: 9%;
+    bottom: 19%;
+    width: 292px;
+    height: 252px;
+}
+
+@keyframes nome-animacao {
+    0% {
+        color: white;
+        transform: scale(0.8) skewY(-6deg);
+    }
+    15% {
+    }
+    30% {
+        color: blue;
+    }
+    45% {
+        color: purple;
+        transform: scale(1) skewY(-6deg);
+    }
+    60% {
+        color: green;
+    }
+    75% {
+        color: pink;
+    }
+    90% {
+        color: red;
+    }
+    100% {
+        color: white;
+        transform: scale(0.8) skewY(-6deg);
+    }
+}
+
+@keyframes errou-animacao {
+    0% {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.7);
+        z-index: 1
+    }
+    100% {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+}
+
