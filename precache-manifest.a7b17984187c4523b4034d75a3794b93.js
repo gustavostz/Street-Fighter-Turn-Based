@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78cf4e1bfeeaf8a2c5885f28da25d62d",
+    "revision": "e278738521cd9ddd68e83c7291e22cf0",
     "url": "/Street-Fighter-Turn-Based/index.html"
   },
   {
