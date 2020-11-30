@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Street-Fighter-Turn-Based/precache-manifest.a1d53be03c7850136748dd2e1ffe294c.js"
+  "/Street-Fighter-Turn-Based/precache-manifest.804e96eb83a55873c46c9f62e31c34c7.js"
 );
 
 self.addEventListener('message', (event) => {

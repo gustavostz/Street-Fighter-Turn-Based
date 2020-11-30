@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Street-Fighter-Turn-Based/static/css/main.5eef6fb1.chunk.css",
-    "main.js": "/Street-Fighter-Turn-Based/static/js/main.2f7da860.chunk.js",
-    "main.js.map": "/Street-Fighter-Turn-Based/static/js/main.2f7da860.chunk.js.map",
-    "runtime-main.js": "/Street-Fighter-Turn-Based/static/js/runtime-main.db04ec26.js",
-    "runtime-main.js.map": "/Street-Fighter-Turn-Based/static/js/runtime-main.db04ec26.js.map",
-    "static/js/2.67bfa89c.chunk.js": "/Street-Fighter-Turn-Based/static/js/2.67bfa89c.chunk.js",
-    "static/js/2.67bfa89c.chunk.js.map": "/Street-Fighter-Turn-Based/static/js/2.67bfa89c.chunk.js.map",
+    "main.css": "/Street-Fighter-Turn-Based/static/css/main.cef3b81c.chunk.css",
+    "main.js": "/Street-Fighter-Turn-Based/static/js/main.bff51492.chunk.js",
+    "main.js.map": "/Street-Fighter-Turn-Based/static/js/main.bff51492.chunk.js.map",
+    "runtime-main.js": "/Street-Fighter-Turn-Based/static/js/runtime-main.a2eb1393.js",
+    "runtime-main.js.map": "/Street-Fighter-Turn-Based/static/js/runtime-main.a2eb1393.js.map",
+    "static/js/2.70152145.chunk.js": "/Street-Fighter-Turn-Based/static/js/2.70152145.chunk.js",
+    "static/js/2.70152145.chunk.js.map": "/Street-Fighter-Turn-Based/static/js/2.70152145.chunk.js.map",
     "index.html": "/Street-Fighter-Turn-Based/index.html",
-    "precache-manifest.a1d53be03c7850136748dd2e1ffe294c.js": "/Street-Fighter-Turn-Based/precache-manifest.a1d53be03c7850136748dd2e1ffe294c.js",
+    "precache-manifest.804e96eb83a55873c46c9f62e31c34c7.js": "/Street-Fighter-Turn-Based/precache-manifest.804e96eb83a55873c46c9f62e31c34c7.js",
     "service-worker.js": "/Street-Fighter-Turn-Based/service-worker.js",
-    "static/css/main.5eef6fb1.chunk.css.map": "/Street-Fighter-Turn-Based/static/css/main.5eef6fb1.chunk.css.map",
+    "static/css/main.cef3b81c.chunk.css.map": "/Street-Fighter-Turn-Based/static/css/main.cef3b81c.chunk.css.map",
     "static/media/style.css": "/Street-Fighter-Turn-Based/static/media/BG4.5b4df421.png",
     "static/media/VS.png": "/Street-Fighter-Turn-Based/static/media/VS.86b41660.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.db04ec26.js",
-    "static/js/2.67bfa89c.chunk.js",
-    "static/css/main.5eef6fb1.chunk.css",
-    "static/js/main.2f7da860.chunk.js"
+    "static/js/runtime-main.a2eb1393.js",
+    "static/js/2.70152145.chunk.js",
+    "static/css/main.cef3b81c.chunk.css",
+    "static/js/main.bff51492.chunk.js"
   ]
 }
