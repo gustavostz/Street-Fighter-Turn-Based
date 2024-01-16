@@ -8,7 +8,7 @@ export class SelecionePersonagem extends Component {
         super(props)
 
         this.state = {
-            preview: <h1> Selecione <br/>um <br/>Personagem </h1>,
+            preview: <h1> Select <br/>a <br/>Character </h1>,
         }
     }
 

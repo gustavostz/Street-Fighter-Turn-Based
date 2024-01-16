@@ -138,7 +138,7 @@ export class Batalha extends Component {
                 <>
                     <ReactPlayer url='https://www.youtube.com/watch?v=Q7eEHbPyqAE' playing={true} width="0" height="0"/>
                     <img className="comemoracaoSilvio"
-                         src="https://thumbs.gfycat.com/ForcefulRawCavy-size_restricted.gif"
+                         src="https://c.tenor.com/giIwBtUxA1MAAAAC/tenor.gif"
                          alt="Silvio Santos dançando"/>
                 </>
             )
