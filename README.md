@@ -41,9 +41,6 @@ Contributions are what make the open-source community an amazing place to learn,
 
 Just open the PR, I take care of the rest :).
 
-## Contact
-- Your Name - [@YourTwitter](https://twitter.com/yourtwitter)
-
 ---
 
 Happy gaming, and let the battles begin! 🎮🎮🎮
