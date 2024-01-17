@@ -41,6 +41,10 @@ Contributions are what make the open-source community an amazing place to learn,
 
 Just open the PR, I take care of the rest :).
 
+## License
+
+This project is open source and available under the [MIT License](/LICENSE).
+
 ---
 
 Happy gaming, and let the battles begin! 🎮🎮🎮
