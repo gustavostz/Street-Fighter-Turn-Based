@@ -22,8 +22,8 @@ export class Poderes extends Component {
             }}>
 
                 <h3 style={{justifyContent: this.props.direcaoFlex}}>{this.props.habilidade.nome}</h3>
-                <p style={{justifyContent: this.props.direcaoFlex}}>{this.props.habilidade.dano} DANO
-                    | {this.props.habilidade.turnoAEsperar} TURNOS</p>
+                <p style={{justifyContent: this.props.direcaoFlex}}>{this.props.habilidade.dano} DAMAGE
+                    | {this.props.habilidade.turnoAEsperar} TURNS</p>
             </button>
         )
     }
