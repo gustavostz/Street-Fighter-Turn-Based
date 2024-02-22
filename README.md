@@ -1,5 +1,7 @@
 # Street Fighter Turn-Based Game
 
+![Street Fighter Turn Based Game Example](./readme_assets/street-fighter-turn-based-game.gif)
+
 ## Introduction
 Welcome to the Street Fighter Turn-Based game, a creative blend of the classic action of Street Fighter with the turn-based RPG logic, all built using React. 
 
